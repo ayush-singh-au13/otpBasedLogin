@@ -1,0 +1,12 @@
+2022-10-14 13:31:36 : [32minfo[39m: 	Health check for url -> / - 200 || undefined - GET - ::1
+2022-10-14 13:57:40 : [31merror[39m: 	404 || undefined - /app/v1/user/register - POST - ::1
+2022-10-14 13:58:40 : [31merror[39m: 	404 || undefined - /app/v1/user/register - POST - ::1
+2022-10-17 11:08:16 : [31merror[39m: 	404 || undefined - /v1/user/deleteById/6345632763524d5bb0aa59d6 - GET - ::1
+2022-10-17 11:08:25 : [31merror[39m: 	404 || undefined - /app/v1/user/deleteById/6345632763524d5bb0aa59d6 - GET - ::1
+2022-10-31 18:40:25 : [31merror[39m: 	404 || undefined - /app/v1/account - GET - ::1
+2022-10-31 18:45:47 : [31merror[39m: 	404 || undefined - /v1/user/login - POST - ::1
+2022-10-31 18:46:06 : [31merror[39m: 	404 || undefined - /v1/app/user/verifyOTP - POST - ::1
+2022-10-31 18:46:15 : [31merror[39m: 	404 || undefined - /app/v1/user/verifyOTP - POST - ::1
+2022-10-31 18:46:24 : [31merror[39m: 	404 || undefined - /app/v1/user/verifyOTP - POST - ::1
+2022-11-01 16:00:51 : [31merror[39m: 	404 || undefined - /app/v1/account/addAmount - GET - ::1
+2022-11-07 22:56:54 : [31merror[39m: 	404 || undefined - /app/v1/account/addAmount - POST - ::1

@@ -1,0 +1,43 @@
+ : error: ReferenceError: userId is not defined
+ : error: 400 || undefined : incorrect OTP : /app/v1/user/verifyOTP : POST
+ : error: ReferenceError: Users is not defined
+ : error: ReferenceError: Users is not defined
+ : error: ReferenceError: Users is not defined
+ : error: ReferenceError: user is not defined
+ : error: CastError: Cast to ObjectId failed for value "{ userId: '6345632763524d5bb0aa59d6' }" (type Object) at path "_id" for model "User"
+ : error: CastError: Cast to ObjectId failed for value "{ userId: new ObjectId("6345632763524d5bb0aa59d6") }" (type Object) at path "_id" for model "User"
+ : error: CastError: Cast to ObjectId failed for value "{ userId: new ObjectId("6345632763524d5bb0aa59d6") }" (type Object) at path "_id" for model "User"
+ 
+ : error: "phone" length must be at least 10 characters long
+ : error: ValidationError: email: Path `email` is required.
+ : error: ValidationError: email: Path `email` is required.
+ : error: ValidationError: email: Path `email` is required.
+ : error: [object Object]
+ : error: [object Object]
+ : error: [object Object]
+ : error: "email" is required
+ : error: "accountNo" is required
+ : info: User Created !,
+            {'user_id': 635fc8554724a95af8f7637f}
+ : error: TypeError: Joi.ObjectId is not a function
+ : error: TypeError: Joi.ObjectId is not a function
+ : error: TypeError: Joi.ObjectId is not a function
+ : error: ReferenceError: err is not defined
+ : error: ReferenceError: err is not defined
+ : error: ReferenceError: err is not defined
+ : error: ReferenceError: err is not defined
+ : error: ReferenceError: err is not defined
+ : info: User Created !,
+            {'user_id': 636103f5175315be22379891}
+ : error: 400 || undefined : incorrect OTP : /app/v1/user/verifyOTP/636103f5175315be22379891 : POST
+ : info: User Created !,
+            {'user_id': 6361146a53bf15a3b4bc3ad1}
+ : error: 400 || undefined : User not found : /app/v1/user/verifyOTP/636103f5175315be22379891 : POST
+ : info: User Created !,
+            {'user_id': 6361179c4b3cd77b02350360}
+ : info: User Created !,
+            {'user_id': 636151f40d47f518bed404cd}
+ : error: 400 || undefined : Phone number not found : /app/v1/user/login : POST
+ : error: MongoServerError: E11000 duplicate key error collection: otpBasedLogin.users index: email_1 dup key: { email: "singhvlsiayush@gmail.com" }
+ : info: User Created !,
+            {'user_id': 636908f72f4ff190469ecb94}
